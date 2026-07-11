@@ -1,0 +1,20 @@
+{
+  "story_title": "[ ]",
+  "genre": "[ ]",
+  "source_material": "[ ]",
+  "chapter_count": 0,
+  "arc_current": 1,
+  "process_state_summary": {},
+  "failure_modes_not_yet_shown": [],
+  "population_index": [],
+  "anchor_summary": "[ ]",
+  "macro_mystery_evidence": [],
+  "next_chapter_pointer": {
+    "chapter": 1,
+    "type": "new_focal_character",
+    "operation_due": "[ ]",
+    "touch_due": 1,
+    "failure_mode_to_show": "[ ]",
+    "anchor_appears": false
+  }
+}

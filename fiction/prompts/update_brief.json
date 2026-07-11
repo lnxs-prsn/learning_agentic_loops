@@ -1,0 +1,51 @@
+{
+  "chapter": "001",
+  "chapter_type": "new_focal_character",
+  "focal_character": {
+    "id": "char_001",
+    "is_new": true,
+    "name": "[ ]",
+    "occupation": "[ ]",
+    "city": "[ ]",
+    "gate_visited": {
+      "gate_id": "G-001",
+      "grade": 1,
+      "operation_encountered": "[ ]",
+      "approach_taken": "[ ]",
+      "understood": false,
+      "looked_back": false,
+      "transferred_to_life": false
+    },
+    "comprehension_changes": {},
+    "ordinary_life_state": "[ ]"
+  },
+  "process_updates": {
+    "operation": "[ ]",
+    "new_touch": 1,
+    "failure_mode_shown": "[ ]",
+    "context_demonstrated": "[ ]",
+    "transferred": false
+  },
+  "location_updates": {
+    "location_id": "[ ]",
+    "new_chapter_added": "001",
+    "new_texture": []
+  },
+  "anchor_update": {
+    "appeared": false,
+    "observation": "[ ]",
+    "location": "[ ]"
+  },
+  "macro_mystery_update": {
+    "evidence_planted": false,
+    "evidence": "[ ]"
+  },
+  "next_chapter_pointer": {
+    "chapter": "002",
+    "type": "[ ]",
+    "operation_due": "[ ]",
+    "touch_due": 0,
+    "failure_mode_to_show": "[ ]",
+    "anchor_appears": false
+  }
+}

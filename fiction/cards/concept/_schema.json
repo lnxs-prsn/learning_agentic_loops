@@ -1,0 +1,16 @@
+{
+  "_note": "Schema reference only. Actual concept files are named [operation_id].json. Created by human during init or by Updater.",
+  "id": "op_XXX",
+  "name": "[ ]",
+  "source_text": "[ ]",
+  "difficulty_rating": 0,
+  "current_touch": 0,
+  "teaching_history": [],
+  "failure_modes_shown": [],
+  "failure_modes_not_yet_shown": [],
+  "contexts_demonstrated": [],
+  "contexts_not_yet_demonstrated": [],
+  "transferred_to_ordinary_life": false,
+  "physical_anchor": "[ ]",
+  "compressible_at_touch": 3
+}

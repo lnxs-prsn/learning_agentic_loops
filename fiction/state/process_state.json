@@ -1,0 +1,16 @@
+{
+  "operations": {
+    "[operation_id]": {
+      "name": "[ ]",
+      "difficulty_rating": 0,
+      "current_touch": 0,
+      "teaching_history": [],
+      "failure_modes_shown": [],
+      "failure_modes_not_yet_shown": [],
+      "contexts_demonstrated": [],
+      "contexts_not_yet_demonstrated": [],
+      "transferred_to_ordinary_life": false,
+      "compressible_at_touch": 3
+    }
+  }
+}

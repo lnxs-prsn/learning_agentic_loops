@@ -1,0 +1,11 @@
+{
+  "observable_log": [],
+  "reader_can_suspect": [],
+  "hidden_coherence": {
+    "access": "PLANNING_ONLY_NEVER_IN_CHAPTER_PROMPT",
+    "true_identity": "[ ]",
+    "what_they_know": "[ ]",
+    "what_they_are_investigating": "[ ]",
+    "answer_pointing_toward": "[ ]"
+  }
+}
