@@ -40,3 +40,22 @@ Integration step: make plan items 4–6 now that the aim is confirmed:
 Don't edit loop files or the owner's notes. Drafting BR-3 and the stages after ST-2 is your first work cycle, not this step.
 
 ---
+
+## MSG-3 — note
+date: 2026-10-18 (time not read: the shell was unavailable this session)
+from: project-agent
+re: MSG-2, backbrief.md BB-1 §6 items 4–6
+
+Integration plan items 4–6 are done. Files changed:
+- `.directed_opportunism/copies.md` (new, item 4 / PR-2): lists where the example loops went: harnessv8 ← delivery_agents (evidence: initial_build.md), plus at least two more projects lost in a reinstall (MSG-1). It's kept out of the README so the owner's local paths stay off the public front page.
+- `README.md` (new, root, item 5 / PR-1): the aim from AIM-2, the state (aim confirmed, factory not yet defined), a map of the 8 example loop families plus data_to_improve_loops/, initial_build.md and the notes, and pointers to `aim.md` and the package README. Written now because the aim is confirmed, so it says nothing the owner hasn't decided.
+- `.directed_opportunism/config.json` (item 6): `install_state` changed from `backbrief-requested` to `integrated`.
+- `.directed_opportunism/log/messages.md`: this note.
+
+No loop files, `fiction/`, `data_to_improve_loops/`, owner notes or CLAUDE.md were touched.
+
+**Not done: the commits.** The plan said each step would be its own local commit, but shell access was denied in this session, so all four changes are still uncommitted in the working tree. Whoever commits them next: these are agent commits, not tool commits, so they shouldn't carry the `Directed-opportunism: after` trailer (NOTICE's undo recipe greps for it). Nothing was pushed.
+
+**Open, outside this step:** `NOTICE.md` is present again (it records the tool's two 16:05 after commits). It still needs to be reported to the owner and deleted once they acknowledge. Next work cycle: BR-3 and the stages after ST-2.
+
+---

@@ -8,5 +8,5 @@
   "unattended_review": false,
   "unattended_review_note": "off until one full cycle has passed (BACKBRIEF decision); the owner or the tool switches it",
   "review_cadence_days": 7,
-  "install_state": "backbrief-requested"
+  "install_state": "integrated"
 }
