@@ -1,0 +1,12 @@
+{
+  "project": "learning_agentic_loops",
+  "method_version": "v2",
+  "package_version": "p1",
+  "installed": "2026-10-18",
+  "control_loop": "tight",
+  "control_loop_note": "tight = backbrief every non-trivial task + self-audit every cycle; loosens on evidence (METHOD §10)",
+  "unattended_review": false,
+  "unattended_review_note": "off until one full cycle has passed (BACKBRIEF decision); the owner or the tool switches it",
+  "review_cadence_days": 7,
+  "install_state": "backbrief-requested"
+}
