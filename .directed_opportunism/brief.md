@@ -40,3 +40,47 @@ Measures (dashboard, not goal): the owner can pick an aim in one sitting; the fi
 
 ### 6. Backbrief
 Point: `.directed_opportunism/backbrief.md`, before any change outside the package.
+
+---
+
+## BR-2 — get learning_agentic_loops an aim, safely and cheaply
+date: 2026-10-18
+aim: AIM-1 (status: derived; open: candidates C1, C2, C3, C3b, archive)
+status: draft (written by the project agent in BB-1; becomes active when the owner accepts the backbrief)
+supersedes: BR-1 once the install is accepted
+superseded_by: none
+
+### 1. Context
+- Known: a library of eight agentic-loop families (role prompts, no code, no tests) plus the owner's design notes; in hiatus since one commit (2026-07-11). At least one loop went to another project: initial_build.md is a delivery-loop spec for harnessv8. The planning loop exists in two versions; the kept copy in data_to_improve_loops/ is the smaller one. The design notes (insights_for_loops.md) are the newest work and were never committed until the tool's before commit ff3c978 swept them in. `main` tracks a GitHub remote, so the next push publishes those notes.
+- Probable: the owner's current interest is loop *design* (the notes) more than adding loops; the loops' real results live in the projects that copied them.
+- Unknown but relevant: which aim; where else the loops went; whether the notes were kept out of git on purpose.
+
+### 2. Higher intent
+- One level up: the owner wants this project to have a direction it can be worked toward, without explaining the method each time; it's in hiatus, so the direction may be "archive".
+- Two levels up: the owner's other projects run on these loops; whatever this project becomes should make those loops better or easier to reuse, or get out of the way.
+- So, if the owner were here and knew what I know: they'd want one cheap decision put in front of them, nothing published they didn't mean to publish, and no work started toward an aim they haven't picked.
+
+### 3. Current intent
+**What:** put the aim decision to the owner as a one-screen choice, and clear the one outward risk the install created (the notes file headed for GitHub)
+**in order to**
+**Why:** until the aim is picked, any work on the loops is a guess (knowledge gap), and the cost of the wrong guess falls on the projects that copy them.
+Measures (dashboard, not goal): the owner picks or corrects an aim in one sitting; nothing is pushed that the owner hasn't seen; no loop file changes.
+
+### 4. Implied tasks
+| Task | Owner | Timing |
+|---|---|---|
+| **Owner decision on the aim (ST-1), made cheap: candidates checked and corrected against the files, each with its first concrete stage** (MAIN EFFORT) | project agent prepares (done in aim.md); owner decides | now |
+| Report NOTICE.md; flag the insights_for_loops.md push risk | project agent | first thing to the owner |
+| Record known copies (harnessv8 so far) | project agent seeds; owner completes | after acceptance |
+| Entry file (README) | project agent | after the aim is picked |
+| Everything else (loop changes, experiments) | — | not before an aim |
+
+Cut order: README first, copies list second; the aim decision is cut last.
+
+### 5. Boundaries
+- Freedoms: read anything in this repo; write in `.directed_opportunism/`; after acceptance, add new files (README.md, a copies note) and commit locally; refine candidate aims with evidence.
+- Constraints: don't edit loop files, `fiction/`, `data_to_improve_loops/` or the owner's top-level notes/specs; never push; never rewrite history (ff3c978 included) without the owner's explicit instruction; don't read other projects (harnessv8) without the owner's permission.
+- Anti-goals: don't pick the aim for the owner; don't let the install publish the owner's private notes; don't turn a hiatus project into busywork (no audits for cycles where nothing happened).
+
+### 6. Backbrief
+Point: BB-1 in `backbrief.md` (this install); after the owner's aim decision, a short backbrief to BR-3 before the first stage starts.

@@ -14,3 +14,7 @@ The tool committed in this project, locally, on its current branch. **Nothing wa
 ### After (2026-10-18T15:27:30+03:00): install directed opportunism package p1 (draft)
 - Why: owner asked: retrofit learning_agentic_loops
 - Files: `.directed_opportunism/BACKBRIEF_REQUEST.md`, `.directed_opportunism/METHOD.md`, `.directed_opportunism/README.md`, `.directed_opportunism/aim.md`, `.directed_opportunism/audits/.gitkeep`, `.directed_opportunism/brief.md`, `.directed_opportunism/config.json`, `.directed_opportunism/log/messages.md`, `.directed_opportunism/proposals.md`, `.directed_opportunism/rules/leader_threat.md`, `.directed_opportunism/templates/backbrief.md`, `.directed_opportunism/templates/self_audit.md`, `.directed_opportunism/templates/ticket_intent_block.md`, `CLAUDE.md`
+
+### After (2026-10-18T15:31:17+03:00): install backbrief BB-1
+- Why: project agent's install backbrief
+- Files: `.directed_opportunism/aim.md`, `.directed_opportunism/brief.md`, `.directed_opportunism/proposals.md`, `.directed_opportunism/backbrief.md`
