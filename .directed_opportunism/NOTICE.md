@@ -14,3 +14,7 @@ The tool committed in this project, locally, on its current branch. **Nothing wa
 ### After (2026-10-18T16:05:20+03:00): record owner's sitting answers: aim confirmed (factory)
 - Why: install sitting: owner confirmed the aim and acknowledged the notice
 - Files: `.directed_opportunism/aim.md`, `.directed_opportunism/log/messages.md`
+
+### After (2026-10-18T16:05:38+03:00): fix dropped text in owner-answer log entry
+- Why: a quoting slip dropped the folder name from MSG-1 item 5
+- Files: `.directed_opportunism/log/messages.md`

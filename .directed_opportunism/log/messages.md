@@ -21,7 +21,7 @@ re: backbrief.md BB-1 §8, AIM-1, NOTICE.md
 2. **insights_for_loops.md:** fine to go to GitHub; nothing important in it besides insights for the project. Keep it.
 3. **Untracked files in general** (the tool's rule now): a file not in .gitignore is fair to commit; one that shouldn't go to git gets added to .gitignore, recorded in the notice.
 4. **Copies:** at least two more projects besides harnessv8 used the loops; they were lost in a reinstall (never on GitHub). Don't search for them.
-5. : the owner doesn't recall its origin.
+5. `data_to_improve_loops/`: the owner doesn't recall its origin.
 6. NOTICE.md: seen (acknowledged). The tool deletes it with this commit.
 7. Self-audits only for sessions where work happened: agreed.
 
