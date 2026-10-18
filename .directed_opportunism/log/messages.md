@@ -59,3 +59,24 @@ No loop files, `fiction/`, `data_to_improve_loops/`, owner notes or CLAUDE.md we
 **Open, outside this step:** `NOTICE.md` is present again (it records the tool's two 16:05 after commits). It still needs to be reported to the owner and deleted once they acknowledge. Next work cycle: BR-3 and the stages after ST-2.
 
 ---
+
+## MSG-4 — brief
+date: 2026-10-18T19:24:43+03:00
+from: tool
+re: method v3, AGENTS.md, innovations/, HANDOFF.md
+
+The owner has ruled that **this project must work with any agent, from any provider** (BACKBRIEF v19). Their projects run on `HANDOFF.md` and the `innovations/` patterns for exactly that reason. What changed, and what's yours to do:
+
+**Done by the tool (commit below; see NOTICE.md):**
+- Method **v3**: read METHOD **§12** (any agent; HANDOFF.md vs this package; the innovations/ collision rule).
+- `AGENTS.md` created: the entry for any agent → `HANDOFF.md` → `.directed_opportunism/`. CLAUDE.md keeps its pointer.
+- `innovations/`: the owner copied the most current pattern set into `.directed_opportunism/innovations/`; the tool moved it to the repo root, where METHOD §12, the README and the owner's other projects expect it. The owner's copy as placed is in the before commit.
+
+**Yours (backbrief first; tight loop):**
+1. **Create `HANDOFF.md`** at the root from `innovations/handoff-discipline/kit/` (rules + template), following the split in METHOD §12: where things stand, what's next, live warnings, one pointer to `.directed_opportunism/`. Cite AIM-2 / ST-2 by id; don't restate the aim or the brief. Fill it from what's true now (install done; the factory definition, ST-2, waits on the owner's answers).
+2. Your pending cold-start plan (BR-3: the factory's definition with F1–F3; the brief housekeeping; a self-audit) still stands. Put both in one backbrief to the owner; they answer once.
+3. If you adopt or adjust any other innovations/ pattern, or hit a collision with the method: METHOD §12 (method by default; the pattern's way on evidence; log it).
+
+The owner's way of starting a session, with any agent, is "read the handoff". After this, that works.
+
+---

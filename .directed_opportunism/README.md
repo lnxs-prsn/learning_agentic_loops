@@ -1,6 +1,6 @@
 # .directed_opportunism/ — how this project is directed
 
-Installed by the `directed_opportunism` tool · method v2 · package p1 · 2026-10-18
+Installed by the `directed_opportunism` tool · method v3 · package p2 · 2026-10-18
 
 **Agent: read this at the start of every session.** It takes two minutes.
 
@@ -22,6 +22,7 @@ The owner installed this so the method is applied the same way every time, witho
 | `proposals.md` | Proposed changes to this project's existing rules | the tool proposes; you accept / adapt / reject with reasons |
 | `log/messages.md` | Messages between you and the tool (re-briefs, questions, reviews) | both |
 | `config.json` | Control loop, review switch, versions | the tool / the owner |
+| `../HANDOFF.md`, `../innovations/` (the project's own) | Where things stand; the owner's pattern toolbox. How this package works with them: METHOD §12 | the project |
 | `NOTICE.md` (only when present) | What the tool just committed here, and how to undo it | the tool; you delete it once the owner acknowledges |
 
 ## Session routine (short)

@@ -1,6 +1,6 @@
 # METHOD — directed opportunism for agent-run projects
 
-**Method version:** v2 (2026-10-18) · Source: Stephen Bungay, *The Art of Action* (2011), adapted for AI agents by the `directed_opportunism` tool.
+**Method version:** v3 (2026-10-18) · Source: Stephen Bungay, *The Art of Action* (2011), adapted for AI agents by the `directed_opportunism` tool.
 **Labels:** [book p.N] stated in the book · [interp] the tool's reading of the book · [hyp] an agent adaptation not yet proven · [adapted from X] taken from one of the owner's patterns.
 
 > **Read this as reasoning, not as a form.** The book's sharpest warning: organizations "distribute the forms, get everyone to fill them in, and relax. The result will be resentment, rigidity, and stagnation" [book p.170]. Every rule below says *why*. If following a rule would defeat its *why* in your situation, follow the *why* and report that you did.
@@ -97,7 +97,12 @@ Current setting: `config.json` → `control_loop`.
 - **The tool's notice comes first.** If `.directed_opportunism/NOTICE.md` exists, report it to the owner at your next interaction with them, before anything else: what the tool committed, why, and how to undo it. Delete it and commit that once they acknowledge. The owner is never left with changes they weren't told about [interp; BACKBRIEF §3.1].
 - **Leader-threat signals** (`rules/leader_threat.md`): when the owner's own instruction threatens the method, say so, with the book page, as an offer. Minor: warn and continue. Conflicts with the confirmed aim: warn and wait. The senior's discipline matters as much as yours [book pp.59–60].
 
-## 12. Glossary
+## 12. Working with the project's own files: HANDOFF.md and innovations/
+**Any agent, any provider.** Nothing in this method assumes a model, provider or harness. The project is entered through `AGENTS.md` → `HANDOFF.md`; agent-specific files (`CLAUDE.md`, `QWEN.md`, …) only point there. Write everything so the next agent, of any kind, can pick it up from the files alone [owner's rule; interp].
+**HANDOFF.md vs this package.** `HANDOFF.md` belongs to the project: where things stand, what's next, live warnings, and one pointer here. This package holds what the method needs: aim, brief, backbriefs, self-audits, log. **Neither repeats the other**: HANDOFF.md cites the aim and main effort by id (AIM-n, ST-n), never restates them, because two documents carrying the same facts drift apart and a cold reader trusts the stale one [adapted from handoff-discipline]. Whichever you read first, the cold-start backbrief (§6) is how you show you oriented.
+**innovations/ (the owner's pattern toolbox).** Use a pattern when your current brief needs one; propose it in a backbrief, with its source. **When a pattern collides with this method**: the method may adjust the pattern or refuse the conflicting part; **but a pattern may suit AI agents better than the method's human-derived form**, so **you, the agent in charge, decide each collision from experience**: the method's way by default; the pattern's way where evidence shows it works better for agents. Log each such decision in `log/messages.md` (type `note`) with its reason and evidence `[evidence: project, date]`; reviews check them [owner's rule, 2026-10-18; book pp.75, 174, 191: judgment by the one closest to the situation, inside the intent]. Proposals to change the innovations themselves go to the owner, not into the folder.
+
+## 13. Glossary
 **Aim** — what the project is for (owner-confirmed). **Current intent** — what we do now and why. **Main effort** — the one thing that must succeed. **Brief** — direction to a level. **Backbrief** — that level saying back what it'll do. **Freedoms / constraints** — the two halves of boundaries. **Anti-goal** — what must not happen. **Control loop** — how often you report back. **Tactics** — binding standard procedures.
 
 *The 10 "Glimpses of the Blindingly Obvious" that sum up the book: `knowledge/` of the tool, or book pp.243–244. The last one: **"What has not been made simple cannot be made clear and what is not clear will not get done."***

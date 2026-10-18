@@ -1,6 +1,6 @@
 # Install backbrief request — learning_agentic_loops
 
-From: the `directed_opportunism` tool · 2026-10-18 · package p1
+From: the `directed_opportunism` tool · 2026-10-18 · package p2
 
 You are this project's agent. The owner has asked for this project to adopt **directed opportunism**. This package is the direction. **Before anything changes in the project, I need your backbrief**: what you understand and what you'll do.
 
